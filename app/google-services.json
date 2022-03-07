@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "154862072843",
+    "project_id": "friends-chatting-48210",
+    "storage_bucket": "friends-chatting-48210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154862072843:android:fbe0c552e59b03ee82830e",
+        "android_client_info": {
+          "package_name": "com.rohit.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154862072843-8oooqsjpgiovu4vn36mhandgjj2ehdsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohit.chatsapp",
+            "certificate_hash": "9e71c99d21cd0eadeea3a6a10c4029dc2a6fde8b"
+          }
+        },
+        {
+          "client_id": "154862072843-4r6udr815frp3lbohii55hd5qlfv3dlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChjtHbYbGHc6vRhcx2rgUpWZWKCzX6NzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154862072843-4r6udr815frp3lbohii55hd5qlfv3dlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
